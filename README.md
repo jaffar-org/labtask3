@@ -1,2 +1,2 @@
 # labtask3
- hello
+    OOP lab task 3
